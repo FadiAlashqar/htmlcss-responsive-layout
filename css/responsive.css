@@ -37,5 +37,18 @@
 @media screen and (min-width: 992px){
     .recipe-name{
         font-size: 40px;
+        white-space: nowrap;
        }
+       .recipe-video img{
+        width: 100%;
+        height: 100%;
+       }
+       .quick-notes ul li{
+       display: block;
+       margin-top: 15px;
+       }
+       .recipe-card{
+        display: flex;
+       }
+      
 }
