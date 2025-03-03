@@ -32,6 +32,12 @@
     float: left;
     margin-right: 15px;
    }
+   header{
+    font-family: 'Nerko One', cursive;
+   }
+   body footer{
+    font-family: Montserrat, 'Helvetica Neue', sans-serif;
+   }
 }
 
 @media screen and (min-width: 992px){
@@ -60,6 +66,12 @@
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+       }
+       header{
+        font-family: 'Nerko One', cursive;
+       }
+       body footer{
+        font-family: Montserrat, 'Helvetica Neue', sans-serif;
        }
 }
       
