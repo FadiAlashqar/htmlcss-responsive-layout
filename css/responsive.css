@@ -20,4 +20,12 @@
    .social-networks .btn{
     width: 120px;
    }
+   .recipe-video img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+   }
+   .ads{
+    display: block;
+   }
 }
