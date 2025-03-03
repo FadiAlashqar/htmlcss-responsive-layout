@@ -50,5 +50,16 @@
        .recipe-card{
         display: flex;
        }
-      
+       .social-networks .label {
+        display: inline-block;
+       }
+       .social-networks .btn{
+        width: 130px;
+       }
+       footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+       }
 }
+      
