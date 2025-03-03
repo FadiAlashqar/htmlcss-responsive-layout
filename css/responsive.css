@@ -13,4 +13,8 @@
    .recipe-name{
     font-size: 35px;
    }
+   .quick-notes ul li{
+    display: inline-block;
+    margin: 10px 15px;
+   }
 }
