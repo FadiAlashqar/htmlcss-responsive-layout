@@ -11,7 +11,7 @@
     display: inline-block;
    }
    .recipe-name{
-    font-size: 35px;
+    font-size: 30px;
    }
    .quick-notes ul li{
     display: inline-block;
@@ -32,4 +32,10 @@
     float: left;
     margin-right: 15px;
    }
+}
+
+@media screen and (min-width: 992px){
+    .recipe-name{
+        font-size: 40px;
+       }
 }
